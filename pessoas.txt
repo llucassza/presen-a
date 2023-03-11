@@ -6,3 +6,4 @@
 {'nome': 'marcelo', 'cpf': '123', 'telefone': '4132', 'senha': 213}
 {'nomes': 'marcelo', 'senhas': '213', 'horas': '321312'}
 {'nome': 'marcel', 'cpf': '23', 'telefone': '123', 'senha': 312}
+{'Nome': 'Marcle', 'CPF': '123', 'Telefone': '321', 'Senha': 123}
