@@ -1,1 +1,3 @@
-print("aaa")
+from menu import menu
+
+menu()

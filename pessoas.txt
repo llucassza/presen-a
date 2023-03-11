@@ -1,0 +1,8 @@
+{'nome': 'marcelo', 'cpf': '123123', 'telefone': '123123', 'senha': 123}
+{'nomes': 'marcelo', 'senhas': '123', 'horas': '123312'}
+{'aasas': 'masfdsa', 'cpf': '432', 'telefone': '234', 'senha': 12}
+{'nome: ': 'marcelo', 'cpf: ': '123', 'telefone: ': '123', 'senha: ': 123}
+{'nomes: ': 'marceasdfsadf', 'senhas: ': '324', 'horas: ': '18:56'}
+{'nome': 'marcelo', 'cpf': '123', 'telefone': '4132', 'senha': 213}
+{'nomes': 'marcelo', 'senhas': '213', 'horas': '321312'}
+{'nome': 'marcel', 'cpf': '23', 'telefone': '123', 'senha': 312}
